@@ -30,5 +30,18 @@ if "doing" in txt:
 txt = "The best things in life are free!"
 print("expensive" not in txt)
 
+#Reverse a String
+
+s = "hello"
+print(s[::-1])
+
+
+n = int(input("Enter number: "))
+if n / 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
 
 
