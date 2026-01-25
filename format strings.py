@@ -12,6 +12,7 @@ print(txt)
 #Escape Character use the escape character \"
 
 txt = "We are the so-called \"Vikings\" from the north."
+print(txt)
 
 #capitalize()	Converts the first character to upper case
 #casefold()	Converts string into lower case
